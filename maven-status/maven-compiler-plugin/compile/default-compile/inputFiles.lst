@@ -1,0 +1,13 @@
+/Users/aditichoudhary/eclipse-workspace/ssrs/src/main/java/com/greatlearning/ssrs/security/entity/User.java
+/Users/aditichoudhary/eclipse-workspace/ssrs/src/main/java/com/greatlearning/ssrs/security/service/impl/SsrsUserDetailsServiceImpl.java
+/Users/aditichoudhary/eclipse-workspace/ssrs/src/main/java/com/greatlearning/ssrs/controller/StudentController.java
+/Users/aditichoudhary/eclipse-workspace/ssrs/src/main/java/com/greatlearning/ssrs/security/repository/UserRepository.java
+/Users/aditichoudhary/eclipse-workspace/ssrs/src/main/java/com/greatlearning/ssrs/repository/StudentRepository.java
+/Users/aditichoudhary/eclipse-workspace/ssrs/src/main/java/com/greatlearning/ssrs/entity/Student.java
+/Users/aditichoudhary/eclipse-workspace/ssrs/src/main/java/com/greatlearning/ssrs/security/web/SsrsSecurityConfiguration.java
+/Users/aditichoudhary/eclipse-workspace/ssrs/src/main/java/com/greatlearning/ssrs/service/StudentService.java
+/Users/aditichoudhary/eclipse-workspace/ssrs/src/main/java/com/greatlearning/ssrs/security/entity/SsrsUserDetails.java
+/Users/aditichoudhary/eclipse-workspace/ssrs/src/main/java/com/greatlearning/ssrs/service/impl/StudentServiceImpl.java
+/Users/aditichoudhary/eclipse-workspace/ssrs/src/main/java/com/greatlearning/ssrs/controller/WelcomeController.java
+/Users/aditichoudhary/eclipse-workspace/ssrs/src/main/java/com/greatlearning/ssrs/security/entity/Role.java
+/Users/aditichoudhary/eclipse-workspace/ssrs/src/main/java/com/greatlearning/ssrs/SsrsApplication.java
